@@ -16,4 +16,6 @@ Install Python 2.7
 
 python readai.py
 
+
+inspiration - 
 https://blog.ayoungprogrammer.com/2015/09/a-simple-artificial-intelligence.html
